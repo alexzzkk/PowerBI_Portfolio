@@ -1,5 +1,6 @@
 # Description
-This project aims to build four reports, namely executive dashboard, map, product view and customer view.
+This project aims to build four reports to monitor the operation of a virtual company.
+The executive dashboard is designed for senior leadership to have a comprehensive view of 
 
 # Key activities
 - Data modelling
