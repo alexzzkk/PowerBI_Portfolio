@@ -8,7 +8,7 @@ This project aims to build four dashboards to monitor the monthly operation of a
 # Key activities
 - Understanding the business context: The Adventure works shop is within the retail industry, therefore typical retail-related KPIs can be considered.
 - Data modelling: Import data from csv files and manually create relationships between different tables.
-- Dashboard design: Prototyping. Design the layout for 
+- Dashboard design: Prototyping
 - Metrics: Create related measures for four dashboards using DAX.
 - Security: Configure row-level security controls for dashboards.
 - Testing: Testing the functionality of dashboards.
