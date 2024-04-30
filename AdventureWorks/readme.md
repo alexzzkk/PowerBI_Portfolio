@@ -8,11 +8,11 @@ This project aims to build four dashboards to monitor the monthly operation of a
 # Key activities
 - Understanding the business context: The Adventure works shop is within the retail industry, therefore typical retail-related KPIs can be considered.
 - Data modelling: Import data from csv files and manually create relationships between different tables.
-- Dashboard design: Prototyping
+- Dashboard design: Prototype and create visualizations
 - Metrics: Create related measures for four dashboards using DAX.
 - Security: Configure row-level security controls for dashboards.
-- Testing: Testing the functionality of dashboards.
-- Publish: Publishing the dashboards to Power BI workspace.
+- Testing: Test the functionality of dashboards.
+- Publish: Publish the dashboards to Power BI workspace.
 
 # Dashboards
 - Executive dashboard
