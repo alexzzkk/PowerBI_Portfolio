@@ -1,5 +1,5 @@
 # Description
-This project aims to build four dashboards to monitor the operation of a virtual company named Adventure Works.
+This project aims to build four dashboards to monitor the monthly operation of a virtual company named Adventure Works.
 - The executive dashboard is designed for the senior leadership to have a bird-eye view of KPIs.
 - The map dashboard demonstrates total orders by country.
 - The product detail view allows drill through the executive dashboard, which demonstrates KPIs for a specific product name.
