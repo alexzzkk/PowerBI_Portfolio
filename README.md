@@ -1,2 +1,2 @@
 # Description
-This repository showcases Portfolios
+This repository contains POWER BI dashboards.
