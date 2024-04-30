@@ -6,9 +6,9 @@ This project aims to build four dashboards to monitor the monthly operation of a
 - The customer detail view enables end users to understand the customer demographic and customer-related KPIs. It also highlights top customers.
 
 # Key activities
-- Understanding the business context: Retail industry.
+- Understanding the business context: THe Adventure works shop is within the retail industry. Typical retail-related KPIs can be considered.
 - Data modelling: Import data from csv files and manually create relationships between different tables.
-- Dashboard design: 
+- Dashboard design: Prototyping. Design the layout for 
 - Metrics: Create measures for four dashboards.
 
 # Dashboards
