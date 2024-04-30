@@ -1,6 +1,7 @@
 # Description
-This project aims to build four reports to monitor the operation of a virtual company.
-The executive dashboard is designed for senior leadership to have a comprehensive view of 
+This project aims to build four reports to monitor the monthly/yearly operation of a virtual company named Adventure Works.
+The executive dashboard is designed for the senior leadership to have a bird-eye view of KPIs.
+The map dashboard demonstrates
 
 # Key activities
 - Data modelling
