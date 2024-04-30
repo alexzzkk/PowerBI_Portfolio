@@ -18,4 +18,4 @@ This project aims to build four reports, namely executive dashboard, map, produc
 
 
 # Reference
-This portfolio is a part of the Microsoft Power BI Desktop for Business Intelligence course.
+This portfolio is a part of the Microsoft Power BI Desktop for Business Intelligence course on Udemy.
