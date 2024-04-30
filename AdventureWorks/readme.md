@@ -12,7 +12,7 @@ This project aims to build four dashboards to monitor the monthly operation of a
 - Metrics: Create related measures for four dashboards using DAX.
 - Security: Configure row-level security controls for dashboards.
 - Testing: Testing the functionality of dashboards.
-- Publish: Publishing the dashboards.
+- Publish: Publishing the dashboards to Power BI workspace.
 
 # Dashboards
 - Executive dashboard
